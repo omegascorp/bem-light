@@ -1,5 +1,6 @@
 # BEM Light
-## BEM-style classes contect with one type of separators
+
+BEM-style classes contect with one type of separators
 
 ## Block
 
