@@ -8,7 +8,7 @@ Block is the main unit, block can not be separated.
 
 Examples:
 
-  button
+	button
 	modal
 	bot-dashboard
 
