@@ -1,6 +1,6 @@
 # BEM Light
 
-BEM-style classes contect with one type of separator.
+BEM-style classes which uses only dash as separator.
 
 ## Block
 
@@ -29,7 +29,7 @@ Modifier can be applied to block or element and changes the appearance.
 Examples:
 
 	button -size-big -color-grey
-	application -expanded
+	application--item -expanded
 
 ## Prefix
 
