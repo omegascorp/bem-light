@@ -1,6 +1,8 @@
 # BEM Light
 
-BEM-style classes which uses only dash as separator.
+BEM-like class nameing convention which uses only dash as separator.
+
+Used on: [codefights.com](codefights.com), [codetrace.io](codetrace.io), [sharedthings.io](sharedthings.io).
 
 ## Block
 
